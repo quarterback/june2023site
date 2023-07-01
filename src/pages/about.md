@@ -3,7 +3,6 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-<img src="src\pages\ron_pic.jpg">
 
 # About Ron
 Ron Bronson has been building things online for two decades. His career has been focused on helping bureaucracies navigate large-scale transformation; and navigating digital products from ideation to post-launch. Ron speaks at events around the world on various topics on experience design. Right now, he's head of design at [18F](http://18f.gsa.gov/).
