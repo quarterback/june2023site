@@ -4,17 +4,24 @@
 
 @layer base {
   :root,
-  .theme-light {
-    --bg: #FFD700 !important; /* Light background color */
-    --contrast: #4B0082 !important; /* Light text color */
-    --accent: #00FF00 !important; /* Light accent color */
+  html[data-theme="light"] {
+    --color-fill: 255, 215, 0; /* Light background color */
+    --color-text-base: 139, 0, 139; /* Light text color */
+    --color-accent: 0, 255, 0; /* Light accent color */
+    --color-card: 128, 0, 128; /* Light card color */
+    --color-card-muted: 255, 255, 0; /* Light muted card color */
+    --color-border: 0, 255, 255; /* Light border color */
   }
   
-  .theme-dark {
-    --bg: #800080 !important; /* Dark background color */
-    --contrast: #FFFF00 !important; /* Dark text color */
-    --accent: #00FFFF !important; /* Dark accent color */
+  html[data-theme="dark"] {
+    --color-fill: 128, 0, 128; /* Dark background color */
+    --color-text-base: 255, 255, 0; /* Dark text color */
+    --color-accent: 0, 255, 255; /* Dark accent color */
+    --color-card: 255, 215, 0; /* Dark card color */
+    --color-card-muted: 139, 0, 139; /* Dark muted card color */
+    --color-border: 0, 255, 0; /* Dark border color */
   }
+  
   #sun-svg,
   html[data-theme="dark"] #moon-svg {
     display: none;
