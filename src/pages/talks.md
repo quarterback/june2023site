@@ -5,7 +5,6 @@ title: "Talks"
 
 Ron Bronson has been on stage at tech, UX, and design events worldwide. Ron brings a wealth of knowledge and insights to the stage. His expertise lies in leading and scaling design teams, tackling challenges related to harm and friction in digital product design, and exploring the dynamic intersection of technology, policy, digital transformation, and content. Ron's thought-provoking presentations delve into these critical areas, providing valuable perspectives and actionable strategies for the design community.
 
-# Past Talks
 -----------------
 *   **May. ‘23** ConveyUX Conference
 *   **Feb. ‘23** Outcome Conference, Chandigarh, India 🇮🇳
