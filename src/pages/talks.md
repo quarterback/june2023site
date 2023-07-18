@@ -7,7 +7,7 @@ Ron Bronson has been on stage at tech, UX, and design events worldwide. Ron brin
 
 # Past Talks
 -----------------
-*   **May ‘23** **A Parliament of Neighbors**, [Exhibit at Chimaera.site/AFK](https://www.chimaera.site/afk)
+*   **May ‘23** **A Parliament of Neighbors**
 *   **May. ‘23** ConveyUX Conference
 *   **Feb. ‘23** Outcome Conference, Chandigarh, India 🇮🇳
 *   **Nov. ‘22** Rosenfeld Media Civic Design Conference
@@ -38,7 +38,7 @@ Ron Bronson has been on stage at tech, UX, and design events worldwide. Ron brin
 *   May 2015 - A Clown Car of Nonsense: Choosing a better vehicle to steer content governance, Confab Central
 *   Apr. 2015 - The Kids Are Alright: Millennials in the workplace, Wayne State University Regional Webconference
 *   Nov. 2014 - Integrating a web team to your marketing department, American Marketing Association Symposium for the Marketing of Higher Education
-*   Sep. 2014 - Conference Director, Aggregate Conference
+*   Sep. 2014 - Conference Director, Aggregate Conference Louisville
 *   Jun. 2014 - The College Website Is A Potluck, Hannon Hill Webinar Series
 *   Jun. 2014 - The Lone Ranger: Managing the Ups and Downs of One-Person Offices and Small Teams, Confab for Nonprofits
 *   Jun. 2014 - Saving the world one Tumblr at a time, Web Conference at Penn State
