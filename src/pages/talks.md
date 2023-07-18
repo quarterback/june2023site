@@ -7,11 +7,9 @@ Ron Bronson has been on stage at tech, UX, and design events worldwide. Ron brin
 
 # Past Talks
 -----------------
-*   **May ‘23** **A Parliament of Neighbors**
 *   **May. ‘23** ConveyUX Conference
 *   **Feb. ‘23** Outcome Conference, Chandigarh, India 🇮🇳
 *   **Nov. ‘22** Rosenfeld Media Civic Design Conference
-*   **Oct. ‘22** Portland Design Festival
 *   **Oct. ‘22** Federal CX Leadership Symposium
 *   **Aug. ‘22** Cloudflare Design Growth Week
 *   **Aug. ‘22** Federation of Tax Associates Tech Conference
