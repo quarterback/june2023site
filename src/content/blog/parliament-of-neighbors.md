@@ -1,7 +1,7 @@
 ---
 title: A Parliament of Neighbors
 author: Ron Bronson
-pubDatetime: 2023-05-14T04:06:31Z
+pubDatetime: 2023-05-14T04:00:00Z
 postSlug: parliament-of-neighbors
 featured: false
 draft: false
