@@ -3,11 +3,14 @@ layout: ../layouts/AboutLayout.astro
 title: "Media"
 ---
 
-# Media
+In addition to being a guest on a range of design & tech podcasts, I'm a radio news anchor at KBOO-FM, a community radio station in Portland and serve as a regular contributor on Iain Alba's english language Finnish baseball podcast [Superpesis Roundup.](https://superpesisroundup.wordpress.com/) Previously, I was a board member and news anchor at WFHB in Bloomington, Indiana. 
+
+If we meet at a party sometime, you can ask me the story of setting up a college internet radio station in my kitchen many moons ago. 
+
 -----------------
 -   Feb. '23  [Ballpark Hunter](https://www.podchaser.com/podcasts/ballpark-hunter-2211250/episodes/ron-bronson-pesapallo-163896811) (Podcast)
 -   Sept. '21: [Content Types](https://youtu.be/nnuYyD7xXIk) (IA Lens A Day)
--   Aug. '21 [Torstai](https://www.torstai-lehti.fi/2021/08/07/bronson-palasi-saarikentalle-ja-naki-vedon-voittavan/)(In Finnish)
+-   Aug. '21  [Torstai](https://www.torstai-lehti.fi/2021/08/07/bronson-palasi-saarikentalle-ja-naki-vedon-voittavan/)(In Finnish)
 -   July '21: [On Service Design](https://www.surfacingpodcast.com/ron-bronson-transcript) (Surfacing Podcast)
 -   July '21: [Revision Path](https://revisionpath.com/ron-bronson/) (Podcast)
 -   Jun '21: [Edge Cases & Empathy](https://open.spotify.com/episode/3Xd9MZ9HdByErb41jb7vUX) (ACT-IAC)
