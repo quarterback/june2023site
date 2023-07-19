@@ -5,7 +5,17 @@ title: "Talks"
 
 Ron Bronson has been on stage at tech, UX, and design events worldwide. Ron brings a wealth of knowledge and insights to the stage. His expertise lies in leading and scaling design teams, tackling challenges related to harm and friction in digital product design, and exploring the dynamic intersection of technology, policy, digital transformation, and content. Ron's thought-provoking presentations delve into these critical areas, providing valuable perspectives and actionable strategies for the design community.
 
+In addition to these talks, I've also curated a series of exhibitions and produced spatial products that challenge conventional notions of design. These immersive experiences and innovative spatial products provide alternative perspectives on design, encouraging critical dialogue and are meant to be fun?
+
 -----------------
+**Exhibitions**
+*   **May. ‘23** A Parliament of Neighbors (Lloyd Center Mall, Portland)
+*   **Oct. '22** Designer's Share of the Problem (Portland Design Festival)
+*   **Oct. '21** The Hidden Cost of Everything: Deccentering the user experience (zine)
+*   **2016** Pensulo card decks
+
+**Talks**
+
 *   **May. ‘23** ConveyUX Conference
 *   **Feb. ‘23** Outcome Conference, Chandigarh, India 🇮🇳
 *   **Nov. ‘22** Rosenfeld Media Civic Design Conference
