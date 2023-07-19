@@ -1,13 +1,13 @@
 ---
 title: A Parliament of Neighbors
 author: Ron Bronson
-pubDatetime: 2022-05-14T04:06:31Z
-postSlug: neighbors
+pubDatetime: 2023-05-14T04:06:31Z
+postSlug: parliament-of-neighbors
 featured: false
 draft: false
 tags:
   - Community
-  - Post-UX
+ogImage: ""
 description:
 An exhibition I designed for the Chimaera.site in-person art installation at the Lloyd Center Mall in May 2023.
 ---
