@@ -1,15 +1,13 @@
 ---
+title: Portland Design Festival 2022
 author: Ron Bronson
-pubDatetime: 2022-10-111T15:20:35Z
-title: The Designers Share of the Problem
-postSlug: "designers-share"
+pubDatetime: 2022-10-06T04:00:00Z
+postSlug: portland-design-fest
 featured: false
 draft: false
 tags:
-  - exhibitions
-ogImage: ""
-description:
- The Designer's share of the problem exhibition
+  - design
+description: More on my presentation at PDX Design Fest 2022.
 ---
 
 In October 2022, I organized an exhibition centered around the concept of the "designer's share of the problem," inspired by Victor Papanek's renowned work of the same name. Delving into the realm of digital interactions that permeate our daily existence, my aim was to spark a dialogue on how designers can reenvision their role and the responsibilities they bear towards the community in our modern world.
