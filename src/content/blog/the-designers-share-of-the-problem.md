@@ -1,16 +1,14 @@
 ---
-author: Ron Bronson
-datetime: 2021-12-03T04:00:00Z
 title: The Designers Share of the Problem
-slug: designers-share
+author: Ron Bronson
+pubDatetime: 2021-12-03T04:00:00Z
+postSlug: designers-share
 featured: false
-tags: []
-description: Rough notes from my talk at IxDA Oslo in December 2021 in Oslo, Norway
 draft: false
-ogImage: ''
-
+tags:
+  - design
+description: Rough notes from my talk at IxDA Oslo in December 2021 in Oslo, Norway
 ---
-# 
 
 So this talk is really an anti-design designer talk. It was borne out of years of frustration from hearing speakers tell people — at least in the US — that all designers are bad, that they’re contributing to a larger problem, without really implicating the larger systems at play. This means people walk away feeling pretty terrible about the talk they just listened to, and don’t feel empowered to do much about what they see as problems themselves.
 
