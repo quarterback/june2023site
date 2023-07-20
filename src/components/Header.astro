@@ -7,7 +7,7 @@ import logoPNG from "/assets/logo.png";
 import logoSVG from "/assets/logo.svg";
 
 export interface Props {
-  activeNav?: "about" | "talks" | "media" | "";
+  activeNav?: "philosophy" | "talks" | "media" | "coaching";
 }
 
 const { activeNav } = Astro.props;
@@ -60,7 +60,7 @@ const { activeNav } = Astro.props;
         </button>
         <ul id="menu-items" class="display-none sm:flex">
           <li>
-            <a href="/about" class={activeNav === "about" ? "active" : ""}>
+            <a href="/about" class={activeNav === "philosophy" ? "active" : ""}>
               About
             </a>
           </li>
@@ -75,7 +75,7 @@ const { activeNav } = Astro.props;
             </a>
           </li>
           <li>
-            <a href="/now" class={activeNav === "" ? "active" : ""}>
+            <a href="/tennis" class={activeNav === "coaching" ? "active" : ""}>
               
             </a>
           </li>
