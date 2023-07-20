@@ -3,8 +3,8 @@ layout: ../layouts/AboutLayout.astro
 title: "Coaching"
 ---
 
-*Outside of the various orgs where I participate, I've done formal (and informal) tech/design career coaching & mentorship over the years through [ADPList](https://adplist.org/mentors/ron-bronson) ADPList], Out of Office Hours, and others...I'm mostly talking on this page about an entirely different kind of coaching! Feel free to get in touch about that, though. [LinkedIn](https://linkedin.com/in/ronbronson) LinkedIn] is probably the most expedient place.* 
------------------
+*Outside of the various orgs where I participate, I've done formal (and informal) tech/design career coaching & mentorship over the years through [ADPList](https://adplist.org/mentors/ron-bronson), Out of Office Hours, and others...I'm mostly talking on this page about an entirely different kind of coaching! Feel free to get in touch about that, though. [LinkedIn](https://linkedin.com/in/ronbronson) is probably the most expedient place.*
+
 
 Ron Bronson is a dedicated tennis coach with a unique coaching philosophy that centers around accessibility and fostering a supportive team environment. Recognizing the challenges that young players face in today's fast-paced world, Ron understands the importance of making tennis meaningful within the context of their everyday lives.
 
