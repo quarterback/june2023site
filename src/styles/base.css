@@ -5,22 +5,23 @@
 @layer base {
   :root,
   html[data-theme="light"] {
-    --color-fill: 245, 245, 220; /* Light background color */
-    --color-text-base: 105, 105, 105; /* Light text color */
-    --color-accent: 221, 160, 221; /* Light accent color */
-    --color-card: 188, 143, 143; /* Light card color */
-    --color-card-muted: 205, 192, 176; /* Light muted card color */
-    --color-border: 112, 128, 144; /* Light border color */
+    --color-fill: 240, 248, 255; /* Light sky blue background color */
+    --color-text-base: 0, 0, 139; /* Dark blue text color */
+    --color-accent: 135, 206, 235; /* Sky blue accent color */
+    --color-card: 240, 248, 255; /* Light sky blue card color */
+    --color-card-muted: 100, 149, 237; /* Cornflower blue muted card color */
+    --color-border: 25, 25, 112; /* Midnight blue border color */
 }
 
 html[data-theme="dark"] {
-    --color-fill: 105, 105, 105; /* Dark background color */
-    --color-text-base: 245, 245, 220; /* Dark text color */
-    --color-accent: 221, 160, 221; /* Dark accent color */
-    --color-card: 188, 143, 143; /* Dark card color */
-    --color-card-muted: 205, 192, 176; /* Dark muted card color */
-    --color-border: 112, 128, 144; /* Dark border color */
+    --color-fill: 47, 79, 79; /* Dark slate grey background color */
+    --color-text-base: 255, 215, 0; /* Gold text color */
+    --color-accent: 210, 105, 30; /* Chocolate accent color */
+    --color-card: 210, 180, 140; /* Tan card color */
+    --color-card-muted: 188, 143, 143; /* Rosy brown muted card color */
+    --color-border: 139, 69, 19; /* Saddle brown border color */
 }
+
 
   
   #sun-svg,
