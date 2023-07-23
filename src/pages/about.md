@@ -4,39 +4,16 @@ title: "About"
 ---
 
 
-# Assorted Boards
-- AIGA Portland, President-elect (2023), IxDA Portland, Co-organizer
-- KBOO-FM, News Anchor (2020-present)
-- City of Portland, Commissioner, Historic Landmarks Commission (Public At-Large) (2020-21)
-- AIGA Indianapolis, VP of Partnerships (2017-18), IxDA Indianapolis, Organizer (2016-18)
-- Co-Organizer, Code for America brigade (Bloomington, IN)
-- WFHB-FM (Community Radio Station), Board Member (2017-18) and News Anchor (2016-18)
-- Future Wyoming, Policy Director & Co-Founder (2007-11)
+My current role as Head of Design at 18F allows me to improve the user experience of government services. Prior to this, I worked in various sectors, helping organizations navigate the digital landscape, including local and state government entities, colleges, universities, and startups like Omnivore, where I served as Brand Director.
 
-# Projects
-I’ve worked on a bevy of projects in my day job, but I’m not positioned to write about them here & I’m not looking for a job.
-This is just an outline of assorted projects.
+Beyond my professional endeavors, I've actively contributed to the design community by serving on the boards of AIGA Indianapolis and WFHB-FM, as well as on the City of Portland Historic Landmarks Commission. I've also been involved in launching Indianapolis Design Week, co-founding Future Wyoming, and establishing Aggregate as a collaborative community.
 
-**Indianapolis Design Week**
-In 2017, I launched the first Indiana Design Week, which was a decentralized event that allowed anyone working in design around the state to add their events to a central calendar, as an opportunity to grow design awareness statewide. After the first success of the first extremely DIY event, we centralized it and turned the event into Indianapolis Design Week, a year later. I left the state in 2018, but Indy Design Week continues to operate under inspired leadership and a vibrant board.
+For the past few years, I've been speaking & writing about consequence design. Rather than simply creating products or services without considering the consequences, consequence design centers around understanding the potential outcomes and actively incorporating them into the design process. 
 
-[Pensulo Cards](https://dribbble.com/shots/3794375-Pensulo-Card-Deck)
-In 2016, I made a deck of 54 creative-block breaking cards that I’ve reprinted a few times since then. I sold them online briefly, but these days I just give them away to friends.
+Through my personal studio, **57th Parallel**, where I host a variety of design-related activities including a community of practice, interdisciplinary collaboration, and workshops throughout the year both in the Pacific Northwest and the Baltic. 
 
-[Aggregate Conference](https://www.instagram.com/ggrgt/)
-I launched a tech conference in Louisville in 2014 called Aggregate (#GGRGT) which attracted folks — and sponsors — from around the country. After the initial event, ran a series of much smaller fireside events & a holiday party under the banner.
+Right now, I'm serving as President of the board of AIGA Portland and volunteer as a news anchor at KBOO-FM, as well as several groups where I volunteer including mentoring early career designers.
 
-[Tennis Polo (Toccer)](https://en.wikipedia.org/wiki/Tennis_polo)
-In 2004, it rained too much at summer camp rendering our outdoor courts mostly useless for parts of the summer. It led to the accidental invention of a field sport that involves scoring goals with a tennis-sized ball on a grass field called Toccer (Tennis Polo), mostly because it was legitimately the most popular thing at camp that summer. A revival of the sport in Vermont seven years later led to the revamp of the original rules, and affirmed its success for athletic & non-athletic kids alike.
-Nearly two decades later, the sport has been played in a number of countries around the world as a pickup game or in more formal settings like gym classes, and I’ve worked with teachers at times to develop lesson plans to teach the sport.
+I've served on the boards of AIGA Indianapolis, WFHB-FM (a community radio station in Indiana) and was appointed to serve on the City of Portland Historic Landmarks Commission. In 2017, I launched Indianapolis Design Week, was co-founder and policy director at Future Wyoming (a student-founded think tank), and launched Aggregate (a collaborate community). 
 
-**National Government Simulation**
-Back in the mid-90s, the first online community I started a live-action government simulation that began on Prodigy before it moved to AOL. After a few successful years on AOL, we rebooted again using our own message forum, expanding to a sim that included players writing legislation, running for elected office quarterly and replete with scandals and such. Even in those nascent days of the web, we had all sorts of low-level trolls and assorted fun, but it was truly a unique era and a fun project for my younger self.
-
-# Tennis Coaching 
-
-Heading into his 4th year as Head Girls Varsity Tennis Coach at Catlin Gabel, Coach Bronson led the Eagles to the 2022 4A/3A/2A/1A OSAA state title, their second straight title season, following up on an undefeated COVID-shortened 2021 season where they finished as Oregon's top 3A/2A team. Coach Bronson compiled a 62-24-1 record in 7 seasons. He also spent a pandemic-era season with Cheyenne Central HS leading the girls team to a Regional title & a 3rd-place finish at state and coached an individual state singles champion & state singles finalist. He also spent a season as a college assistant coach at Aurora University in Illinois.
-
-As a player, Ron was a four-year letter winner, captain & all-area doubles honorable mention selection his senior year at Plainfield (NJ) High School, where he was part of three consecutive NJSIAA state playoff teams and a conference championship in 1997, which was the first boys tennis conference title in school history. He played one season of college tennis at Monmouth (IL) College in 2003, where he played both singles (4/5/6) & doubles (2) and served as a team captain.
-
-He also coached college speech & debate for three seasons. 
+Outside of design, I've spent more than half my life involved with tennis. After a scholastic & collegiate playing career, I've enjoyed coaching. I've coached men's college tennis, as well as boys & girls high school teams in three states and at private camps in New England.
