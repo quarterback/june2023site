@@ -1,11 +1,11 @@
 
-Ron Bronson is entering his 5th year as head coach of the girl's tennis program at Catlin Gabel School in Portland. Since taking the helm of the Eagles, In 2022, the school won its 6th OSAA state title in dominant fashion, and during the pandemic-shortened 2021 season, won the Oregontennis.com 3A team dual state championship. 
+Ron Bronson is entering his 5th year as head coach of the girl's tennis program at Catlin Gabel School in Portland. The Eagles won the 2022 OSAA 4A/1A state title, and the Oregon 3A Championship in 2021. 
 
-Under Bronson, the program won back-to-back District titles and haven't lost a dual match in conference play since 2019. He coached the 2023 4A State Doubles championship, only the 2nd Catlin Gabel girls duo to win a doubles title, and the first since 1996. Two former Eagles have gone on to play Division 1 including two-time State singles semi-finalist Anna Semler, who also teamed up with Rachel Yoken in 2020 to claim the 3A doubles title. 3-time All-State selection Lola Diaz Gonzalez was a state finalist in 2022, claimed the 3A singles title in 2021, and three district titles during his standout career.
+His squads are a remarkable 31-0 in conference play since 2020, and have won two team District titles. In 2023, he coached the 4A/1A Girls Doubles state champions, only the 2nd Catlin Gabel girls duo to win a doubles title (first since 1996.) 11 Eagles have earned All-State honors, and two have gone to play Division 1 athletics. 11 players have earned All-State honors during Bronson's leadership since 2020.
 
-Coach Bronson was named 2022-23 4A Girls State Coach of the Year by the Oregon Athletic Coaches Association, and has been honored twice as a Regional/District Coach of the Year in different states.
+Coach Bronson was named 2022-23 4A Girls State Coach of the Year by the Oregon Athletic Coaches Association, and has been honored twice as a Regional/District Coach of the Year during his career.
 
-Prior to Catlin Gabel, Coach Bronson was Boys Varsity Head Coach at Oregon City (OR), where the team earned OSAA All-State Academic Honors in 2019. During the pandemic, he concurrently led the boys & girls tennis program at Cheyenne Central (WY), and led the girls program to the South Regional & Conference title in 2022. While at Central, he coached two All-State selections including a state champion (Hailey Mathis, 2nd singles) and a state finalist (Ashli Smedley, 1st singles) en route to a 3rd place finish at state
+Prior to Catlin Gabel, Coach Bronson was Boys Varsity Head Coach at Oregon City (OR), where the team earned OSAA All-State Academic Honors in 2019. During the pandemic, he concurrently led the boys & girls tennis program at Cheyenne Central (WY), and led the girls program to the South Regional & Conference title in 2022. While at Central, he coached two All-State selections, including a girls state champion (2nd singles) & state finalist (1st singles). 
 
 Over a decade earlier, he started his coaching career leading tennis programs at private camps in New England, as well as one season as the men's assistant coach at Aurora University (IL). 
 
