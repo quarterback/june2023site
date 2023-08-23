@@ -3,14 +3,20 @@ layout: ../layouts/AboutLayout.astro
 title: "Tennis"
 ---
 
-Ron Bronson is entering his 5th year as head coach of the girls tennis program at Catlin Gabel School in Portland. The Eagles won the 2022 OSAA 4A/1A state title, and the Oregon 3A Championship in 2021. He's also led the program to 2 District titles, 3 conference titles since taking over and coached the 2023 OSAA 4A/1A Girls state doubles champions, the program's first doubles title since 1996.
+**Coaching Philosophy**
 
-Coach Bronson was named 2022-23 4A Girls State Coach of the Year by the Oregon Athletic Coaches Association, and has been honored twice as a Regional/District Coach of the Year during his career. Since becoming a head coach, his teams have won a combined 3 Regional/District titles, 4 Conference championships. He's coached singles & doubles state champions in multiple states and his players have combined for 8 individual District/Regional titles. 
+Over the span of two decades, I've coached high-performance junior players across the nation. While many have gone on to grace the courts of Division 1 colleges, the real success for me lies in their evolution as individuals—both on and off the court. In the world of tennis, individual achievement often takes center stage. But as a high school coach, one of my proudest accomplishments has been fostering a sense of camaraderie and team spirit in a sport primarily known for its solitary battles. 
 
-Prior to Catlin Gabel, Coach Bronson was Boys Varsity Head Coach at Oregon City (OR), where the team earned OSAA All-State Academic Honors in 2019. During the pandemic, he concurrently led the boys & girls tennis program at Cheyenne Central (WY). 
+Tennis, by nature, fosters a sense of perfectionism. Each missed shot, each unforced error can weigh heavily on a player's psyche. My coaching strategy has always been to help players break down these mental barriers, to quell the anxieties that so often come with the quest for the perfect game. I focus on creating an environment where players care deeply about their own growth, and equally, if not more, about the growth of their peers. Even in a sport where they might sometimes compete against each other for spots, this emphasis on mutual success has cultivated a culture where the journey becomes as joyful and meaningful as the destination.
 
-Over a decade earlier, he started his coaching career leading tennis programs at private camps in New England, as well as one season as the men's assistant coach at Aurora University (IL). He began his scholastic coaching career at Colorado Academy and later at Denver North High School.
+My view is that tennis should be fun. That's why I collaborate closely with high-performance technical coaches. Together, we ensure that what players learn in practice translates seamlessly into their game during crucial match moments. But beyond techniques and strategies, I'm passionate about nurturing life skills on the tennis court. Whether it's trusting oneself, making decisive calls, gauging one's own abilities, or problem-solving in real-time against a formidable opponent—these are not just skills for the game; they are invaluable lessons for life.
 
-He later played college tennis at Monmouth College in Illinois, after four years in the US Air Force.  Ron was a 4-year letter winner at Plainfield (NJ) High School, where he was part of 3 state playoff teams and was a captain on their first boys conference championship title squad in 1997. His high school coach was 2-time New Jersey coach of the Year and Eastern Tennis Association Hall of Famer Donald Van Blake.
+For me, tennis isn't merely about forehands, backhands, or serves. It's a platform to instill self-belief in individuals. I relentlessly challenge my players to look beyond the confines of the court, to place trust in themselves, and to understand the profound impact of camaraderie. Because in the grand scheme of things, while trophies and titles may fade, the lessons learned and the bonds forged on the tennis court remain indelible.
 
-In 2004, he (accidentally) invented the sport of Tennis Polo at Camp Awosting in Connecticut. 
+**Coaching Bio**
+
+Heading into his 5th year as the head coach of the girls tennis program at Catlin Gabel School in Portland, Ron Bronson steered the Eagles to the 2022 OSAA 4A-1A Girls state title, 2021 OregonTennis.com 3A state title, as well as 3 consecutive conference titles & 2 District titles. In 2023, Catlin's top doubles team won the 2023 OSAA 4A-1A State Doubles title, for the first time in 27 years.
+
+Named the 2022-23 4A Girls State Coach of the Year by the Oregon Athletic Coaches Association, and a 2-time Regional/District Coach of the Year honoree, Ron's vast experience includes coaching roles at Oregon City, Cheyenne Central (WY), and stints directing tennis programs at prestigious private summer camps in New England. As of 2023, Ron's career dual meet record is 57-21-1. 
+
+A former college tennis player & team captain at Monmouth College after serving in the US Air Force, he was a 4-year letter winner at Plainfield (NJ) High School, where he was coached by Hall of Famer & former New Jersey State Coach of the Year Donald Van Blake. 
