@@ -15,8 +15,10 @@ For me, tennis isn't merely about forehands, backhands, or serves. It's a platfo
 
 **Coaching Bio**
 
-Heading into his 5th year as the head coach of the girls tennis program at Catlin Gabel School in Portland, Ron Bronson steered the Eagles to the 2022 OSAA 4A-1A Girls state title, 2021 OregonTennis.com 3A state title, as well as 3 consecutive conference titles & 2 District titles. In 2023, Catlin's top doubles team won the 2023 OSAA 4A-1A State Doubles title, for the first time in 27 years.
+Heading into his 5th year as the head coach of the girls tennis program at Catlin Gabel School in Portland, Ron Bronson steered the Eagles to the 2022 OSAA 4A-1A Girls state title, 2021 OregonTennis.com 3A state title, back-to-back District titles and three straight conference titles. In 2023, Catlin's top doubles team won the 2023 OSAA 4A-1A State Doubles title, for the first time in 27 years.  
 
-Named the 2022-23 4A Girls State Coach of the Year by the Oregon Athletic Coaches Association, and a 2-time Regional/District Coach of the Year honoree, Ron's vast experience includes coaching roles at Oregon City, Cheyenne Central (WY), and stints directing tennis programs at prestigious private summer camps in New England. As of 2023, Ron's career dual meet record is 57-21-1. 
+As of 2023, Ron's career dual meet record is 57-21-1 as a head coach.
+
+Named the 2022-23 4A Girls State Coach of the Year by the Oregon Athletic Coaches Association, and a 2-time Regional/District Coach of the Year honoree, Ron's vast experience includes collegiate roles at Aurora University (IL) and high school coaching roles at Oregon City, Cheyenne Central (WY), and stints directing tennis programs at top private summer camps in New England & Midwest.
 
 A former college tennis player & team captain at Monmouth College after serving in the US Air Force, he was a 4-year letter winner at Plainfield (NJ) High School, where he was coached by Hall of Famer & former New Jersey State Coach of the Year Donald Van Blake. 
