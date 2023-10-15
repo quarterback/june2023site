@@ -14,7 +14,7 @@ Over the years, my philosophy of humor and a passion for analytics, deep technic
 
 Coach Ron Bronson, now entering his 5th year as the head varsity girls tennis coach at Catlin Gabel School in Portland.  
 
-Under his tutelage, the Eagles have soared to victory, clinching the 2022 OSAA 4A/1A state title, the Oregon 3A Championship in 2021, 2 District titles, and 3 conference titles. In 2023, he coached the OSAA 4A/1A Girls state doubles champions, marking the program's first individual doubles state title since 1996. 11 Eagles have earned All-State honors since he took over. 
+Under his tutelage, the Eagles have soared to victory, clinching the 2022 OSAA 4A/1A state title, 2021 consensus Oregon 3A state champions, 2 District titles, and 3 conference titles. In 2023, he coached the OSAA 4A/1A Girls state doubles champions, marking the program's first individual doubles state title since 1996. 11 Eagles have earned All-State honors since he took over. 
 
 Coach Bronson’s accolades include the 2022-23 4A Girls State Coach of the Year award by the Oregon Athletic Coaches Association. He was also honored as the Girls Lewis & Clark League Coach of the Year & 4A/3A/2A/1A District 1 Coach of the Year during the 2021-22 season. 
 
