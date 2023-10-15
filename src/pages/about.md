@@ -10,3 +10,6 @@ Currently, I am the Head of Design at 18F, a federal digital services office aim
 I have had the privilege of delivering talks at the intersections of design, technology, and policy on four continents at notable events such as IxDA Oslo, An Event Apart, Confab, UXR Toronto, Rosenfield Civic Design, and SDN Global Conference. In 2023, I curated the Chimaera Portland Kunsthalle exhibition <em><a href="https://ronbronson.mmm.page/neighbors">A Parliament of Neighbors</em></a>, which explored ideas around borders, belonging, and community in an age of disinformation. In 2022, my participatory design project <em><a href="https://www.ronbronson.design/posts/designers-share">The Designer's Share of the Problem</a></em> was part of the Portland Design Festival. Previously, I founded Indianapolis Design Week and served as the event’s director until 2018. <br><br>
 
 Currently, I serve as the President of the board of AIGA Portland. In my spare time, I coach high school tennis. I was named 4A-1A Girls Tennis Coach of the Year by the Oregon Athletic Coaches Association for 2022-23 season. In 2021-22, I served in a mayoral appointed seat of the Portland Historic Landmarks Commission.<br><br>
+
+
+This site built hastily on Vercel using <a href="https://github.com/satnaing/astro-paper">Astro</a>, Javascript, CSS & Visual Studio Code.
