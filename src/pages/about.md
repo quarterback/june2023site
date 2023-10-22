@@ -13,5 +13,4 @@ Currently, I serve as the President of the board of <a href="https://portland.ai
 
 Previously served on the <a href="https://www.portland.gov/bds/landmarks">Portland Historic Landmarks Commission.</a><br><br>
 
-
 This site built hastily on Vercel using <a href="https://github.com/satnaing/astro-paper">Astro</a>, Javascript, CSS & Visual Studio Code.
