@@ -7,7 +7,7 @@ import logoPNG from "/assets/logo.png";
 import logoSVG from "/assets/logo.svg";
 
 export interface Props {
-  activeNav?: "tennis" | "talks" | "blog" | "media";
+  activeNav?: "about" | "talks" | "media" | "blog" | "tennis" ;
 }
 
 const { activeNav } = Astro.props;
@@ -60,8 +60,8 @@ const { activeNav } = Astro.props;
         </button>
         <ul id="menu-items" class="display-none sm:flex">
           <li>
-            <a href="/tennis" class={activeNav === "coaching" ? "active" : ""}>
-              Tennis
+            <a href="/about" class={activeNav === "about" ? "active" : ""}>
+              About
             </a>
           </li>
           <li>
@@ -74,14 +74,14 @@ const { activeNav } = Astro.props;
               Media
             </a>
           </li>
-           <li>
-            <a href="/about" class={activeNav === "about" ? "active" : ""}>
-              About
-            </a>
-          </li>
             <li>
             <a href="https://ronbronson.blot.im/" class={activeNav === "about" ? "active" : ""}>
               Blog
+            </a>
+          </li>
+          <li>
+            <a href="/tennis" class={activeNav === "coaching" ? "active" : ""}>
+              Coaching & Analytics
             </a>
           </li>
 

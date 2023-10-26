@@ -1,8 +1,9 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "Tennis"
+title: "Sports & Analytics"
 ---
-**Coaching record**
+
+**Tennis Coaching**
 Coach Ron Bronson, now entering his 5th year as the head varsity girls tennis coach at Catlin Gabel School in Portland.
 
 Under his tutelage, the Eagles have soared to victory, clinching the 2022 OSAA 4A/1A state title, 2021 consensus Oregon 3A state champions, 2 District titles, and 3 conference titles. In 2023, he coached the OSAA 4A/1A Girls state doubles champions, marking the program’s first individual doubles state title since 1996. 11 Eagles have earned All-State honors since 2019.
@@ -11,6 +12,17 @@ Coach Bronson’s accolades include the 2022-23 4A Girls State Coach of the Year
 
 In 2019, his Oregon City boys squad were an OSAA All-State Academic Team.
 
+**Sports and Analytics**
+My journey with analytics started in early 1990s when I ran across Pete Palmer's book <em>[https://en.wikipedia.org/wiki/The_Hidden_Game_of_Baseball][The Hidden Game of Baseball]</em> and became transfixed at the idea you could dig into "the numbers" to find stories. Over the years, this obsession remained (until a math teach suggested to me that it was a waste of time...and I moved onto other things) and gradually evolved into other sports.
+
+High school tennis generally suffers from data quality given the paucity of matches and relative difficulties of sourcing match information, but I've leveraged rudimentary anayltics and models to help my teams improve and gain an edge. My favorite part of this process is teaching players to track their peers matches and having them get excited to do it. 
+
+The proliferation of video tools have made it easier for me to bring my own statstical models to teams over the years, though generally these ideas scale better for college and/or high-performance players and as match-specific tactical support. 
+
+**Omnivore College Football Computer Poll**
+My computer football ranking, Omnivore Rankings, was listed in the [https://masseyratings.com/ranks](Massey Comparison of Computer Rankings) for several years, it crowned a Omnivore National Champion which took the highest ranked mid-major program each year. 
+
+I started around 2007 and ended it at the end of the BCS era, before bringing it back for the 2023 college football season. 
 
 **My tennis journey**
 
