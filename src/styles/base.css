@@ -15,7 +15,7 @@
 
   html[data-theme="dark"] {
     --color-fill: 128, 0, 0; /* Maroon background color */
-    --color-text-base: 0, 128, 128; /* Teal text color */
+    --color-text-base: 255, 255, 255; /* White text color */
     --color-accent: 255, 0, 255; /* Magenta accent color */
     --color-card: 85, 107, 47; /* Olive Drab card color */
     --color-card-muted: 188, 143, 143; /* Rosy Brown muted card color */
