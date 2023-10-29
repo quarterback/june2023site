@@ -21,7 +21,6 @@
     --color-card-muted: 188, 143, 143; /* Rosy Brown muted card color */
     --color-border: 255, 140, 0; /* Dark Orange border color */
   }
-}
   
   #sun-svg,
   html[data-theme="dark"] #moon-svg {
