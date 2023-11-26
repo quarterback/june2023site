@@ -5,21 +5,21 @@
 @layer base {
   :root,
   html[data-theme="light"] {
-    --color-fill: 255, 235, 205; /* Blanched Almond background color */
-    --color-text-base: 139, 69, 19; /* Saddle Brown text color */
-    --color-accent: 255, 160, 122; /* Light Salmon accent color */
-    --color-card: 240, 230, 140; /* Khaki card color */
-    --color-card-muted: 219, 112, 147; /* Pale Violet Red muted card color */
-    --color-border: 0, 128, 128; /* Teal border color */
+    --color-fill: 230, 230, 250; /* Lavender background color */
+    --color-text-base: 72, 61, 139; /* Dark Slate Blue text color */
+    --color-accent: 173, 216, 230; /* Light Blue accent color */
+    --color-card: 255, 222, 173; /* Navajo White card color */
+    --color-card-muted: 176, 224, 230; /* Powder Blue muted card color */
+    --color-border: 147, 112, 219; /* Medium Purple border color */
   }
 
   html[data-theme="dark"] {
-    --color-fill: 128, 0, 0; /* Maroon background color */
-    --color-text-base: 255, 255, 255; /* White text color */
-    --color-accent: 255, 0, 255; /* Magenta accent color */
-    --color-card: 85, 107, 47; /* Olive Drab card color */
-    --color-card-muted: 188, 143, 143; /* Rosy Brown muted card color */
-    --color-border: 255, 140, 0; /* Dark Orange border color */
+    --color-fill: 75, 0, 130; /* Indigo background color */
+    --color-text-base: 255, 239, 213; /* Papaya Whip text color */
+    --color-accent: 255, 105, 180; /* Hot Pink accent color */
+    --color-card: 102, 205, 170; /* Medium Aquamarine card color */
+    --color-card-muted: 221, 160, 221; /* Plum muted card color */
+    --color-border: 255, 215, 0; /* Gold border color */
   }
   
   #sun-svg,
