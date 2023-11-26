@@ -4,13 +4,11 @@ title: "Sports & Analytics"
 ---
 
 **Tennis Coaching**
-Coach Ron Bronson, now entering his 5th year as the head varsity girls tennis coach at Catlin Gabel School in Portland.
+I've coached high school tennis intermittently since playing in high school & college. For several summers, I ran tennis programs at summer camps in New England. I've coached high school varsity tennis in three states (Colorado, Wyoming & Oregon) and returned to coaching in 2019 after about a decade away. 
 
-Under his tutelage, the Eagles have soared to victory, clinching the 2022 OSAA 4A/1A state title, 2021 consensus Oregon 3A state champions, 2 District titles, and 3 conference titles. In 2023, he coached the OSAA 4A/1A Girls state doubles champions, marking the program’s first individual doubles state title since 1996. 11 Eagles have earned All-State honors since 2019.
+My philosophy is driven towards helping students trust themselves on the court, tennis is unique in that you don't really have a coach able to call a timeout to help you figure it out, you've got to problem solve in real-time. Winning and losing aren't my priorities, I'm far more interested in seeing kids grow and the lessons they might not realize they've learned at the time, but come to discover at other parts of their lives.
 
-Coach Bronson’s accolades include the 2022-23 4A Girls State Coach of the Year award by the Oregon Athletic Coaches Association. He was also honored as the Girls Lewis & Clark League Coach of the Year & 4A/3A/2A/1A District 1 Coach of the Year during the 2021-22 season.
-
-In 2019, his Oregon City boys squad were an OSAA All-State Academic Team.
+I've been fortunate to coach state champions in two states and  was honored as the 2022-23 Oregon 4A/3A/2A/1A Girls State Tennis Coach of the Year Award.
 
 **Sports and Analytics**
 My journey with analytics started in early 1990s when I ran across Pete Palmer's book <em>[The Hidden Game of Baseball](https://en.wikipedia.org/wiki/The_Hidden_Game_of_Baseball)</em> and became transfixed at the idea you could dig into "the numbers" to find stories. Over the years, this obsession remained (until a math teach suggested to me that it was a waste of time...and I moved onto other things) and gradually evolved into other sports.
@@ -33,7 +31,6 @@ One of those summers, we even [invented a sport.](https://toccer.com)
 I've always worked in tech, but tennis wasn't far away. Early in my career, I had the chance to coach at a university where I worked. When I moved, I had no problems taking over a JV program and approached it with the same zeal, especially with lower stakes. 
 
 After a few more summers at camp, I kind of thought I'd never coach again. Besides the occasional lesson or helping out high school programs in towns I lived, I never imagined I'd spend springs like my own coach once did.
-
 
 I returned to tennis coaching after 8 years away in 2019, driven by a desire to give back to the community, learn more about Oregon, and pay tribute to my own mentor, [Mr. Van Blake](https://oralhistory.rutgers.edu/interviewees/1507-van-blake-donald). 
 

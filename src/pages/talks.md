@@ -3,11 +3,12 @@ layout: ../layouts/AboutLayout.astro
 title: "Talks"
 ---
 
-Ron Bronson has been on stage at tech, UX, and design events worldwide. Ron brings a wealth of knowledge and insights to the stage. His expertise lies in leading and scaling design teams, tackling challenges related to harm and friction in digital product design, and exploring the dynamic intersection of technology, policy, digital transformation, and content. Ron's thought-provoking presentations delve into these critical areas, providing valuable perspectives and actionable strategies for the design community.
+![Sketchnotes from a talk on service design](https://reverent-raman-d79ba7.netlify.app/images/20201022_164617.jpg)
 
-In addition to these talks, I've also curated a series of exhibitions and produced spatial products that challenge conventional notions of design. These immersive experiences and innovative spatial products provide alternative perspectives on design, encouraging critical dialogue and are meant to be fun?
+I’ve been on stage at tech, design & strategy events around the world. 
 
 -----------------
+
 **Exhibitions**
 *   **May. ‘23** A Parliament of Neighbors (Lloyd Center Mall, Portland)
 *   **Oct. '22** Designer's Share of the Problem (Portland Design Festival)
