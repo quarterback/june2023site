@@ -16,7 +16,8 @@ I’ve been on stage at tech, design & strategy events around the world.
 *   **2016** Pensulo card decks
 
 **Talks**
-
+*   **Feb. '24** Portland State University
+*   **Nov. '23** Art Talk @ George Fox University
 *   **May. ‘23** ConveyUX Conference
 *   **Feb. ‘23** Outcome Conference, Chandigarh, India 🇮🇳
 *   **Nov. ‘22** Rosenfeld Media Civic Design Conference
