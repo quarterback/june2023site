@@ -8,7 +8,7 @@ I've coached high school tennis intermittently since playing in high school & co
 
 My philosophy is driven towards helping students trust themselves on the court, tennis is unique in that you don't really have a coach able to call a timeout to help you figure it out, you've got to problem solve in real-time. Winning and losing aren't my priorities, I'm far more interested in seeing kids grow and the lessons they might not realize they've learned at the time, but come to discover at other parts of their lives.
 
-I've been fortunate to coach state champions in two states and  was honored as the 2022-23 Oregon 4A/3A/2A/1A Girls State Tennis Coach of the Year Award.
+I've been fortunate to coach state champions in two states and  was honored as the 2022-23 Oregon 4A/3A/2A/1A Girls State Tennis Coach of the Year Award. _I do not coach privately or do private lessons._
 
 **Sports and Analytics**
 My journey with analytics started in early 1990s when I ran across Pete Palmer's book <em>[The Hidden Game of Baseball](https://en.wikipedia.org/wiki/The_Hidden_Game_of_Baseball)</em> and became transfixed at the idea you could dig into "the numbers" to find stories. Over the years, this obsession remained (until a math teach suggested to me that it was a waste of time...and I moved onto other things) and gradually evolved into other sports.
@@ -20,7 +20,7 @@ The proliferation of video tools have made it easier for me to bring my own stat
 **Omnivore College Football Computer Poll**
 My computer football ranking, Omnivore Rankings, was listed in the [Massey Computer Rankings Comparison](https://masseyratings.com/ranks) for several years, it crowned a Omnivore National Champion which took the highest ranked mid-major program each year. 
 
-I started around 2007 and ended it at the end of the BCS era, before bringing it back for the 2023 college football season. 
+I started around 2007 and ended it at the end of the BCS era.
 
 **My tennis journey**
 
