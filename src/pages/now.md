@@ -4,8 +4,6 @@ title: "Now"
 ---
 *Last Updated 5 May 2024*
 
-<li>Coaching high school tennis once again this spring. This is my 7th season of coaching since 2018, before that I took about 7 years away from coaching. I'm <i>probably</i> done after this season, at least for a bit. I enjoy working with the student-athletes, it's always fun seeing how every year a new group develops their own culture. I also learn a lot about myself in the process. I've never had a spring since I've lived here where I wasn't coaching, and I'm recognizing it's a bit of a bigger blocker to prepping projects I'm working on and my summer. But we'll see, I always think I'm done and I end up coming back.</li>
-
 <li> I'm developing a DIY public interest/civic tech designer event called <a href="https://designforthepublic.com/"></a><b>Design For the Public</b></a> in October. It'll overlap within PDX Design Month (see below) but my goal is to offer an event for people especially those in the sub-federal space to meet, collaborate & learn from each other. Now that I'm done teaching, I can really get into the prep. 
 
 <li> I'm nearing one year as President of AIGA Portland. We're rebooting <a href="https://www.pdxdesignmonth.com/"></a>Portland Design Month</a> this fall. It'll be a decentralized event where local groups, orgs & people can host their own events during the event from late Sept through October. It's been two years since PDX Design Fest, so we're excited to get something like this going for the community. </li>
