@@ -5,112 +5,28 @@
 @layer base {
   :root,
   html[data-theme="light"] {
-    --color-fill: 245, 245, 245; /* Light gray background */
-    --color-text-base: 33, 33, 33; /* Dark gray text */
-    --color-accent: 0, 102, 204; /* Blue accent */
+    --color-fill: 248, 250, 252; /* Light blue-gray background */
+    --color-text-base: 15, 23, 42; /* Very dark blue-gray text */
+    --color-accent: 37, 99, 235; /* Vibrant blue accent */
     --color-card: 255, 255, 255; /* White card */
-    --color-card-muted: 238, 238, 238; /* Light gray muted card */
-    --color-border: 219, 219, 219; /* Light gray border */
+    --color-card-muted: 241, 245, 249; /* Light blue-gray muted card */
+    --color-border: 203, 213, 225; /* Light blue-gray border */
   }
   html[data-theme="dark"] {
-    --color-fill: 33, 33, 33; /* Dark gray background */
-    --color-text-base: 245, 245, 245; /* Light gray text */
-    --color-accent: 102, 178, 255; /* Light blue accent */
-    --color-card: 57, 57, 57; /* Dark gray card */
-    --color-card-muted: 51, 51, 51; /* Darker gray muted card */
-    --color-border: 153, 153, 153; /* Medium gray border */
-  }
-  #sun-svg,
-  html[data-theme="dark"] #moon-svg {
-    display: none;
-  }
-  #moon-svg,
-  html[data-theme="dark"] #sun-svg {
-    display: block;
+    --color-fill: 15, 23, 42; /* Very dark blue-gray background */
+    --color-text-base: 248, 250, 252; /* Light blue-gray text */
+    --color-accent: 59, 130, 246; /* Bright blue accent */
+    --color-card: 30, 41, 59; /* Dark blue-gray card */
+    --color-card-muted: 51, 65, 85; /* Medium blue-gray muted card */
+    --color-border: 71, 85, 105; /* Medium-dark blue-gray border */
   }
   body {
     @apply flex min-h-screen flex-col bg-skin-fill font-mono text-skin-base 
     selection:bg-skin-accent selection:bg-opacity-70 selection:text-skin-inverted;
   }
-  section,
-  footer {
-    @apply mx-auto max-w-3xl px-4;
-  }
   a {
     @apply outline-2 outline-offset-1 outline-skin-fill 
     focus-visible:no-underline focus-visible:outline-dashed;
-  }
-  svg {
-    @apply inline-block h-6 w-6 fill-skin-base group-hover:fill-skin-accent;
-  }
-  svg.icon-tabler {
-    @apply inline-block h-6 w-6 scale-125 fill-transparent 
-    stroke-current stroke-2 opacity-90 group-hover:fill-transparent 
-    sm:scale-110;
-  }
-  .prose {
-    @apply prose-headings:!mb-3 prose-headings:!text-skin-base 
-    prose-h3:italic prose-p:!text-skin-base 
-    prose-a:!text-skin-base prose-a:!decoration-dashed prose-a:underline-offset-8
-    hover:prose-a:text-skin-accent prose-blockquote:!border-l-skin-accent
-    prose-blockquote:border-opacity-50 prose-blockquote:opacity-80
-    prose-figcaption:!text-skin-base prose-figcaption:opacity-70
-    prose-strong:!text-skin-base
-    prose-code:rounded prose-code:bg-skin-card
-    prose-code:bg-opacity-75 prose-code:p-1 prose-code:!text-skin-base
-    prose-code:before:!content-[''] prose-code:after:!content-['']
-    prose-pre:!text-skin-base prose-ol:!text-skin-base 
-    prose-ul:overflow-x-clip prose-ul:!text-skin-base prose-li:marker:!text-skin-accent
-    prose-table:text-skin-base prose-th:border
-    prose-th:border-skin-line prose-td:border 
-    prose-td:border-skin-line prose-img:mx-auto 
-    prose-img:!mt-2 prose-img:border-2 
-    prose-img:border-skin-line prose-hr:!border-skin-line;
-  }
-  .prose a {
-    @apply hover:!text-skin-accent;
-  }
-  .prose thead th:first-child,
-  tbody td:first-child,
-  tfoot td:first-child {
-    padding-left: 0.5714286em;
-  }
-  .prose h2#table-of-contents {
-    @apply mb-2;
-  }
-  .prose details {
-    @apply inline-block cursor-pointer select-none text-skin-base;
-  }
-  .prose summary {
-    @apply focus-outline;
-  }
-  .prose h2#table-of-contents + p {
-    @apply hidden;
-  }
-
-  /* ===== scrollbar ===== */
-  html {
-    overflow-y: scroll;
-  }
-
-  /* width */
-  ::-webkit-scrollbar {
-    @apply w-3;
-  }
-
-  /* Track */
-  ::-webkit-scrollbar-track {
-    @apply bg-skin-fill;
-  }
-
-  /* Handle */
-  ::-webkit-scrollbar-thumb {
-    @apply bg-skin-card;
-  }
-
-  /* Handle on hover */
-  ::-webkit-scrollbar-thumb:hover {
-    @apply bg-skin-card-muted;
   }
 }
 
@@ -125,25 +41,25 @@
 
 /* Custom styles for different heading sizes */
 h1 {
-  @apply text-4xl font-bold mb-4;
+  @apply text-4xl font-bold mb-4 text-skin-accent;
 }
 
 h2 {
-  @apply text-3xl font-semibold mb-3;
+  @apply text-3xl font-semibold mb-3 text-skin-base;
 }
 
 h3 {
-  @apply text-2xl font-medium mb-2;
+  @apply text-2xl font-medium mb-2 text-skin-base;
 }
 
-h4 {
-  @apply text-xl font-medium mb-2;
+/* ... (keep other heading styles) */
+
+/* Add some vibrancy to links */
+a {
+  @apply text-skin-accent hover:text-skin-accent-hover transition-colors duration-200;
 }
 
-h5 {
-  @apply text-lg font-medium mb-1;
-}
-
-h6 {
-  @apply text-base font-medium mb-1;
+/* Make buttons more prominent */
+button, .button {
+  @apply bg-skin-accent text-skin-inverted font-bold py-2 px-4 rounded hover:bg-skin-accent-hover transition-colors duration-200;
 }
