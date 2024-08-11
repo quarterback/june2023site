@@ -4,22 +4,22 @@
 
 @layer base {
   :root,
-  html[data-theme="light"] {
-    --color-fill: 250, 250, 210; /* Alice Blue background color */
-    --color-text-base: 20, 33, 61; /* Dark Blue text color */
-    --color-accent: 255, 105, 180; /* Light Pink accent color */
-    --color-card: 79, 209, 204; /* Light Cyan card color */
-    --color-card-muted: 255, 182, 193; /* Pale Turquoise muted card color */
-    --color-border: 60, 179, 113; /* Teal border color */
+    html[data-theme="light"] {
+    --color-fill: 255, 253, 240; /* Ivory Linen background */
+    --color-text-base: 61, 28, 74; /* Deep Plum text */
+    --color-accent: 230, 57, 70; /* Vibrant Coral accent */
+    --color-card: 168, 218, 220; /* Soft Aqua card */
+    --color-card-muted: 241, 203, 171; /* Peach Puff muted card */
+    --color-border: 29, 53, 87; /* Navy Blue border */
   }
 
-  html[data-theme="dark"] {
-    --color-fill: 34, 32, 52; /* Midnight Blue background color */
-    --color-text-base: 224, 255, 255; /* Light Yellow text color */
-    --color-accent: 255, 215, 0; /* Tomato accent color */
-    --color-card: 147, 112, 219; /* Medium Sea Green card color */
-    --color-card-muted: 255, 99, 71; /* Medium Slate Blue muted card color */
-    --color-border: 173, 255, 47; /* Dark Orange border color */
+    html[data-theme="dark"] {
+    --color-fill: 44, 51, 51; /* Charcoal Green background */
+    --color-text-base: 241, 250, 238; /* Mint Cream text */
+    --color-accent: 255, 159, 28; /* Marigold accent */
+    --color-card: 69, 123, 157; /* Steel Blue card */
+    --color-card-muted: 168, 218, 220; /* Soft Aqua muted card */
+    --color-border: 230, 57, 70; /* Vibrant Coral border */
   }
   
   #sun-svg,
