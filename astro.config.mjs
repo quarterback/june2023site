@@ -13,6 +13,24 @@ export default defineConfig({
     tailwind({
       config: {
         applyBaseStyles: false,
+        theme: {
+          extend: {
+            colors: {
+              skin: {
+                fill: 'rgb(var(--color-background) / <alpha-value>)',
+                base: 'rgb(var(--color-text) / <alpha-value>)',
+                accent: 'rgb(var(--color-accent) / <alpha-value>)',
+                inverted: 'rgb(var(--color-background) / <alpha-value>)',
+                primary: 'rgb(var(--color-primary) / <alpha-value>)',
+                secondary: 'rgb(var(--color-secondary) / <alpha-value>)',
+              },
+            },
+            fontFamily: {
+              title: ['Ultra', 'serif'],
+              body: ['Slabo 27px', 'serif'],
+            },
+          },
+        },
       },
     }),
     react(),

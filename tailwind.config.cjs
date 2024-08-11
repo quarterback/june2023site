@@ -1,65 +1,60 @@
-function withOpacity(variableName) {
-  return ({ opacityValue }) => {
-    if (opacityValue !== undefined) {
-      return `rgba(var(${variableName}), ${opacityValue})`;
-    }
-    return `rgb(var(${variableName}))`;
-  };
-}
+const defaultTheme = require('tailwindcss/defaultTheme');
 
-/** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./src/**/*.{astro,html,js,jsx,md,mdx,svelte,ts,tsx,vue}"],
+  darkMode: 'class', // or 'media' for media-query based
+  content: ['./src/**/*.{astro,html,js,jsx,md,mdx,svelte,ts,tsx,vue}'],
   theme: {
-    // Remove the following screen breakpoint or add other breakpoints
-    // if one breakpoint is not enough for you
-    screens: {
-      sm: "640px",
-    },
-
-    // Uncomment the following extend
-    // if existing Tailwind color palette will be used
-
-    // extend: {
-    textColor: {
-      skin: {
-        base: withOpacity("--color-text-base"),
-        accent: withOpacity("--color-accent"),
-        inverted: withOpacity("--color-fill"),
+    extend: {
+      colors: {
+        skin: {
+          fill: 'var(--color-fill)',
+          accent: 'var(--color-accent)',
+          inverted: 'var(--color-text-base)',
+          card: 'var(--color-card)',
+          'card-muted': 'var(--color-card-muted)',
+          base: 'var(--color-text-base)',
+          muted: 'var(--color-text-muted)',
+        },
+      },
+      textColor: {
+        skin: {
+          base: 'var(--color-text-base)',
+          accent: 'var(--color-accent)',
+          inverted: 'var(--color-fill)',
+        },
+      },
+      backgroundColor: {
+        skin: {
+          fill: 'var(--color-fill)',
+          accent: 'var(--color-accent)',
+          inverted: 'var(--color-text-base)',
+          card: 'var(--color-card)',
+          'card-muted': 'var(--color-card-muted)',
+        },
+      },
+      outlineColor: {
+        skin: {
+          fill: 'var(--color-accent)',
+        },
+      },
+      borderColor: {
+        skin: {
+          line: 'var(--color-border)',
+          fill: 'var(--color-text-base)',
+          accent: 'var(--color-accent)',
+        },
+      },
+      fill: {
+        skin: {
+          base: 'var(--color-text-base)',
+          accent: 'var(--color-accent)',
+        },
+        transparent: 'transparent',
+      },
+      fontFamily: {
+        mono: ['IBM Plex Mono', ...defaultTheme.fontFamily.mono],
       },
     },
-    backgroundColor: {
-      skin: {
-        fill: withOpacity("--color-fill"),
-        accent: withOpacity("--color-accent"),
-        inverted: withOpacity("--color-text-base"),
-        card: withOpacity("--color-card"),
-        "card-muted": withOpacity("--color-card-muted"),
-      },
-    },
-    outlineColor: {
-      skin: {
-        fill: withOpacity("--color-accent"),
-      },
-    },
-    borderColor: {
-      skin: {
-        line: withOpacity("--color-border"),
-        fill: withOpacity("--color-text-base"),
-        accent: withOpacity("--color-accent"),
-      },
-    },
-    fill: {
-      skin: {
-        base: withOpacity("--color-text-base"),
-        accent: withOpacity("--color-accent"),
-      },
-      transparent: "transparent",
-    },
-    fontFamily: {
-      mono: ["IBM Plex Mono", "monospace"],
-    },
-    // },
   },
-  plugins: [require("@tailwindcss/typography")],
+  plugins: [require('@tailwindcss/typography')],
 };

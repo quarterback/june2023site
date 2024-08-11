@@ -2,127 +2,60 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Google Fonts Import */
+@import url('https://fonts.googleapis.com/css2?family=Ultra&family=Slabo+27px&display=swap');
+
 @layer base {
-  :root,
-  html[data-theme="light"] {
-    --color-fill: 250, 250, 210; /* Light Goldenrod Yellow */
-    --color-text-base: 20, 33, 61; /* Midnight Blue */
-    --color-accent: 255, 105, 180; /* Hot Pink */
-    --color-card: 72, 209, 204; /* Medium Turquoise */
-    --color-card-muted: 255, 182, 193; /* Light Pink */
-    --color-border: 60, 179, 113; /* Medium Sea Green */
-  }
+  :root {
+  --color-fill: 250, 250, 210; /* Light Goldenrod Yellow */
+  --color-text-base: 20, 33, 61; /* Midnight Blue */
+  --color-accent: 255, 105, 180; /* Hot Pink */
+  --color-card: 72, 209, 204; /* Medium Turquoise */
+  --color-card-muted: 255, 182, 193; /* Light Pink */
+  --color-border: 60, 179, 113; /* Medium Sea Green */
+}
 
-  html[data-theme="dark"] {
-    --color-fill: 34, 32, 52; /* Dark Gunmetal */
-    --color-text-base: 224, 255, 255; /* Light Cyan */
-    --color-accent: 255, 215, 0; /* Gold */
-    --color-card: 147, 112, 219; /* Medium Purple */
-    --color-card-muted: 255, 99, 71; /* Tomato */
-    --color-border: 173, 255, 47; /* Green-Yellow */
-  }
-  
-  #sun-svg,
-  html[data-theme="dark"] #moon-svg {
-    display: none;
-  }
-  #moon-svg,
-  html[data-theme="dark"] #sun-svg {
-    display: block;
-  }
-  body {
-    @apply flex min-h-screen flex-col bg-skin-fill font-mono text-skin-base 
-    selection:bg-skin-accent selection:bg-opacity-70 selection:text-skin-inverted;
-  }
-  section,
-  footer {
-    @apply mx-auto max-w-3xl px-4;
-  }
-  a {
-    @apply outline-2 outline-offset-1 outline-skin-fill 
-    focus-visible:no-underline focus-visible:outline-dashed;
-  }
-  svg {
-    @apply inline-block h-6 w-6 fill-skin-base group-hover:fill-skin-accent;
-  }
-  svg.icon-tabler {
-    @apply inline-block h-6 w-6 scale-125 fill-transparent 
-    stroke-current stroke-2 opacity-90 group-hover:fill-transparent 
-    sm:scale-110;
-  }
-  .prose {
-    @apply prose-headings:!mb-3 prose-headings:!text-skin-base 
-    prose-h3:italic prose-p:!text-skin-base 
-    prose-a:!text-skin-base prose-a:!decoration-dashed prose-a:underline-offset-8
-    hover:prose-a:text-skin-accent prose-blockquote:!border-l-skin-accent
-    prose-blockquote:border-opacity-50 prose-blockquote:opacity-80
-    prose-figcaption:!text-skin-base prose-figcaption:opacity-70
-    prose-strong:!text-skin-base
+/* This will be used when dark mode is active */
+.dark {
+  --color-fill: 34, 32, 52; /* Dark Gunmetal */
+  --color-text-base: 224, 255, 255; /* Light Cyan */
+  --color-accent: 255, 215, 0; /* Gold */
+  --color-card: 147, 112, 219; /* Medium Purple */
+  --color-card-muted: 255, 99, 71; /* Tomato */
+  --color-border: 173, 255, 47; /* Green-Yellow */
+}
 
-    
-    prose-code:rounded prose-code:bg-skin-card 
-    prose-code:bg-opacity-75 prose-code:p-1 prose-code:!text-skin-base 
-    prose-code:before:!content-[''] prose-code:after:!content-['']
-    prose-pre:!text-skin-base prose-ol:!text-skin-base 
-    prose-ul:overflow-x-clip prose-ul:!text-skin-base prose-li:marker:!text-skin-accent
-    prose-table:text-skin-base prose-th:border
-    prose-th:border-skin-line prose-td:border 
-    prose-td:border-skin-line prose-img:mx-auto 
-    prose-img:!mt-2 prose-img:border-2 
-    prose-img:border-skin-line prose-hr:!border-skin-line;
-  }
-  .prose a {
-    @apply hover:!text-skin-accent;
-  }
-  .prose thead th:first-child,
-  tbody td:first-child,
-  tfoot td:first-child {
-    padding-left: 0.5714286em;
-  }
-  .prose h2#table-of-contents {
-    @apply mb-2;
-  }
-  .prose details {
-    @apply inline-block cursor-pointer select-none text-skin-base;
-  }
-  .prose summary {
-    @apply focus-outline;
-  }
-  .prose h2#table-of-contents + p {
-    @apply hidden;
-  }
-
-  /* ===== scrollbar ===== */
   html {
-    overflow-y: scroll;
+    @apply scroll-smooth;
   }
 
-  /* width */
-  ::-webkit-scrollbar {
-    @apply w-3;
+  body {
+    @apply flex min-h-screen flex-col bg-[var(--skin-fill)] font-mono text-[var(--skin-text-base)] 
+    selection:bg-[var(--skin-accent)] selection:bg-opacity-70 selection:text-[var(--skin-inverted)];
   }
 
-  /* Track */
-  ::-webkit-scrollbar-track {
-    @apply bg-skin-fill;
-  }
-
-  /* Handle */
-  ::-webkit-scrollbar-thumb {
-    @apply bg-skin-card;
-  }
-
-  /* Handle on hover */
-  ::-webkit-scrollbar-thumb:hover {
-    @apply bg-skin-card-muted;
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-sans text-[var(--skin-accent)];
   }
 }
 
+/* Ensure the main content is centered */
+main {
+  @apply flex flex-col items-center justify-center;
+}
+
+/* To ensure text in paragraphs is centered */
+#hero p {
+  @apply text-center;
+}
+
 @layer components {
-  .display-none {
-    @apply hidden;
+  .btn {
+    @apply inline-block px-6 py-2 border text-[var(--skin-accent)] rounded transition-colors duration-200;
+    border-color: var(--skin-accent);
   }
-  .focus-outline {
-    @apply outline-2 outline-offset-1 outline-skin-fill focus-visible:no-underline focus-visible:outline-dashed;
+
+  .btn:hover {
+    @apply bg-[var(--skin-accent)] text-[var(--skin-inverted)];
   }
 }
