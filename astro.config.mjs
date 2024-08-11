@@ -13,6 +13,21 @@ export default defineConfig({
     tailwind({
       config: {
         applyBaseStyles: false,
+        theme: {
+          extend: {
+            colors: {
+              skin: {
+                fill: 'rgb(var(--color-fill) / <alpha-value>)',
+                base: 'rgb(var(--color-text-base) / <alpha-value>)',
+                accent: 'rgb(var(--color-accent) / <alpha-value>)',
+                inverted: 'rgb(var(--color-fill) / <alpha-value>)',
+                card: 'rgb(var(--color-card) / <alpha-value>)',
+                'card-muted': 'rgb(var(--color-card-muted) / <alpha-value>)',
+                border: 'rgb(var(--color-border) / <alpha-value>)',
+              },
+            },
+          },
+        },
       },
     }),
     react(),
