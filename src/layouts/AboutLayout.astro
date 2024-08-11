@@ -18,9 +18,9 @@ const { frontmatter } = Astro.props;
 <Layout title={`${frontmatter.title} | ${SITE.title}`}>
   <Header activeNav="about" />
   <Breadcrumbs />
-  <main id="main-content">
-    <section id="about" class="prose mb-28 max-w-3xl prose-img:border-0">
-      <h1 class="text-2xl font-bold tracking-wider sm:text-3xl">{frontmatter.title}</h1>
+  <main id="main-content" class="mx-auto w-full max-w-3xl px-4 pb-12">
+    <section id="about" class="prose prose-lg max-w-none mb-28">
+      <h1 class="text-3xl font-bold tracking-wider sm:text-4xl">{frontmatter.title}</h1>
       <slot />
     </section>
   </main>
@@ -28,17 +28,13 @@ const { frontmatter } = Astro.props;
 </Layout>
 
 <style>
-  #main-content {
-    @apply mx-auto w-full max-w-3xl px-4 pb-12;
-  }
   .prose {
-    @apply prose-headings:font-bold prose-headings:text-skin-base 
-           prose-h1:text-3xl prose-h2:text-2xl prose-h3:text-xl prose-h4:text-lg
-           prose-h5:text-base prose-h6:text-sm prose-h6:uppercase prose-p:text-skin-base 
-           prose-a:text-skin-base prose-a:underline hover:prose-a:text-skin-accent 
-           prose-strong:text-skin-base prose-code:text-skin-base prose-code:bg-skin-card 
-           prose-code:rounded prose-code:px-1 prose-code:py-0.5 prose-ol:text-skin-base 
-           prose-ul:text-skin-base prose-li:text-skin-base prose-table:text-skin-base 
-           prose-thead:text-skin-base prose-tr:border-b prose-tr:border-skin-line;
+    @apply 
+      prose-headings:font-bold prose-headings:text-skin-base 
+      prose-a:text-skin-base prose-a:underline hover:prose-a:text-skin-accent 
+      prose-strong:text-skin-base prose-code:text-skin-base prose-code:bg-skin-card 
+      prose-code:rounded prose-code:px-1 prose-code:py-0.5 
+      prose-li:text-skin-base prose-table:text-skin-base 
+      prose-thead:text-skin-base prose-tr:border-b prose-tr:border-skin-line;
   }
 </style>
