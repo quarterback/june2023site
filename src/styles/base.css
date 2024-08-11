@@ -7,21 +7,21 @@
 
 @layer base {
 :root {
-  --color-fill: 251, 254, 251;
-  --color-text-base: 40, 39, 40;
-  --color-accent: 0, 108, 172;
-  --color-card: 230, 230, 230;
-  --color-card-muted: 205, 205, 205;
-  --color-border: 236, 233, 233;
+  --color-fill: 240, 248, 255; /* Alice Blue */
+  --color-text-base: 34, 32, 52; /* Gunmetal */
+  --color-accent: 218, 112, 214; /* Orchid */
+  --color-card: 255, 235, 205; /* Blanched Almond */
+  --color-card-muted: 222, 184, 135; /* Burlywood */
+  --color-border: 128, 0, 128; /* Purple */
 }
 
 .dark {
-  --color-fill: 33, 39, 55;
-  --color-text-base: 234, 237, 243;
-  --color-accent: 255, 107, 1;
-  --color-card: 52, 63, 96;
-  --color-card-muted: 138, 51, 2;
-  --color-border: 171, 75, 8;
+  --color-fill: 18, 18, 18; /* Very Dark Gray */
+  --color-text-base: 255, 255, 240; /* Ivory */
+  --color-accent: 255, 69, 0; /* Red-Orange */
+  --color-card: 72, 61, 139; /* Dark Slate Blue */
+  --color-card-muted: 85, 107, 47; /* Dark Olive Green */
+  --color-border: 255, 140, 0; /* Dark Orange */
 }
 
 html {
@@ -33,9 +33,9 @@ body {
   selection:bg-skin-accent selection:bg-opacity-70 selection:text-skin-inverted;
 }
 
-  h1, h2, h3, h4, h5, h6 {
-    @apply font-sans;
-  }
+h1, h2, h3, h4, h5, h6 {
+  @apply font-sans text-skin-accent;
+}
 }
 
 @layer components {
