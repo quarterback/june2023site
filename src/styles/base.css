@@ -5,22 +5,22 @@
 @layer base {
   :root,
   html[data-theme="light"] {
-  --color-fill: 250, 250, 210; /* Light Goldenrod Yellow */
-  --color-text-base: 20, 33, 61; /* Midnight Blue */
-  --color-accent: 255, 105, 180; /* Hot Pink */
-  --color-card: 72, 209, 204; /* Medium Turquoise */
-  --color-card-muted: 255, 182, 193; /* Light Pink */
-  --color-border: 60, 179, 113; /* Medium Sea Green */
-}
+    --color-fill: 240, 248, 255; /* Alice Blue background color */
+    --color-text-base: 0, 51, 102; /* Dark Blue text color */
+    --color-accent: 255, 182, 193; /* Light Pink accent color */
+    --color-card: 224, 255, 255; /* Light Cyan card color */
+    --color-card-muted: 175, 238, 238; /* Pale Turquoise muted card color */
+    --color-border: 0, 128, 128; /* Teal border color */
+  }
 
   html[data-theme="dark"] {
-  --color-fill: 34, 32, 52; /* Dark Gunmetal */
-  --color-text-base: 224, 255, 255; /* Light Cyan */
-  --color-accent: 255, 215, 0; /* Gold */
-  --color-card: 147, 112, 219; /* Medium Purple */
-  --color-card-muted: 255, 99, 71; /* Tomato */
-  --color-border: 173, 255, 47; /* Green-Yellow */
-}
+    --color-fill: 25, 25, 112; /* Midnight Blue background color */
+    --color-text-base: 255, 255, 224; /* Light Yellow text color */
+    --color-accent: 255, 99, 71; /* Tomato accent color */
+    --color-card: 60, 179, 113; /* Medium Sea Green card color */
+    --color-card-muted: 123, 104, 238; /* Medium Slate Blue muted card color */
+    --color-border: 255, 140, 0; /* Dark Orange border color */
+  }
   
   #sun-svg,
   html[data-theme="dark"] #moon-svg {
