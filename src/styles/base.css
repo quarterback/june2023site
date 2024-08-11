@@ -2,27 +2,36 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Google Fonts Import */
+@import url('https://fonts.googleapis.com/css2?family=Ultra&family=Slabo+27px&display=swap');
+
 @layer base {
-  :root,
-  html[data-theme="light"] {
-    --color-fill: 248, 250, 252;
-    --color-text-base: 15, 23, 42;
-    --color-accent: 37, 99, 235;
-    --color-card: 255, 255, 255;
-    --color-card-muted: 241, 245, 249;
-    --color-border: 203, 213, 225;
+  :root {
+    --color-text: 0, 0, 0;
+    --color-background: 250, 201, 187;
+    --color-primary: 216, 217, 219;
+    --color-secondary: 247, 247, 247;
+    --color-accent: 0, 0, 0;
   }
-  html[data-theme="dark"] {
-    --color-fill: 15, 23, 42;
-    --color-text-base: 248, 250, 252;
-    --color-accent: 59, 130, 246;
-    --color-card: 30, 41, 59;
-    --color-card-muted: 51, 65, 85;
-    --color-border: 71, 85, 105;
-  }
+
   body {
-    @apply bg-skin-fill text-skin-base;
+    @apply bg-skin-fill text-skin-base font-body;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 0 1rem;
   }
+
+  main {
+    @apply mx-auto max-w-3xl w-full flex-grow;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-title;
+  }
+
   a {
     @apply text-skin-accent hover:text-skin-accent/75 transition-colors duration-200;
   }
