@@ -5,61 +5,31 @@
 @layer base {
   :root,
   html[data-theme="light"] {
-    --color-fill: 248, 250, 252; /* Light blue-gray background */
-    --color-text-base: 15, 23, 42; /* Very dark blue-gray text */
-    --color-accent: 37, 99, 235; /* Vibrant blue accent */
-    --color-card: 255, 255, 255; /* White card */
-    --color-card-muted: 241, 245, 249; /* Light blue-gray muted card */
-    --color-border: 203, 213, 225; /* Light blue-gray border */
+    --color-fill: 248, 250, 252;
+    --color-text-base: 15, 23, 42;
+    --color-accent: 37, 99, 235;
+    --color-card: 255, 255, 255;
+    --color-card-muted: 241, 245, 249;
+    --color-border: 203, 213, 225;
   }
   html[data-theme="dark"] {
-    --color-fill: 15, 23, 42; /* Very dark blue-gray background */
-    --color-text-base: 248, 250, 252; /* Light blue-gray text */
-    --color-accent: 59, 130, 246; /* Bright blue accent */
-    --color-card: 30, 41, 59; /* Dark blue-gray card */
-    --color-card-muted: 51, 65, 85; /* Medium blue-gray muted card */
-    --color-border: 71, 85, 105; /* Medium-dark blue-gray border */
+    --color-fill: 15, 23, 42;
+    --color-text-base: 248, 250, 252;
+    --color-accent: 59, 130, 246;
+    --color-card: 30, 41, 59;
+    --color-card-muted: 51, 65, 85;
+    --color-border: 71, 85, 105;
   }
   body {
-    @apply flex min-h-screen flex-col bg-skin-fill font-mono text-skin-base 
-    selection:bg-skin-accent selection:bg-opacity-70 selection:text-skin-inverted;
+    @apply bg-skin-fill text-skin-base;
   }
   a {
-    @apply outline-2 outline-offset-1 outline-skin-fill 
-    focus-visible:no-underline focus-visible:outline-dashed;
+    @apply text-skin-accent hover:text-skin-accent/75 transition-colors duration-200;
   }
 }
 
 @layer components {
-  .display-none {
-    @apply hidden;
+  .btn {
+    @apply inline-block px-6 py-2 border border-skin-accent text-skin-accent rounded hover:bg-skin-accent hover:text-skin-inverted transition-colors duration-200;
   }
-  .focus-outline {
-    @apply outline-2 outline-offset-1 outline-skin-fill focus-visible:no-underline focus-visible:outline-dashed;
-  }
-}
-
-/* Custom styles for different heading sizes */
-h1 {
-  @apply text-4xl font-bold mb-4 text-skin-accent;
-}
-
-h2 {
-  @apply text-3xl font-semibold mb-3 text-skin-base;
-}
-
-h3 {
-  @apply text-2xl font-medium mb-2 text-skin-base;
-}
-
-/* ... (keep other heading styles) */
-
-/* Add some vibrancy to links */
-a {
-  @apply text-skin-accent hover:text-skin-accent-hover transition-colors duration-200;
-}
-
-/* Make buttons more prominent */
-button, .button {
-  @apply bg-skin-accent text-skin-inverted font-bold py-2 px-4 rounded hover:bg-skin-accent-hover transition-colors duration-200;
 }
