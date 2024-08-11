@@ -52,6 +52,16 @@
   }
 }
 
+/* Ensure the main content is centered */
+main {
+  @apply flex flex-col items-center justify-center;
+}
+
+/* To ensure text in paragraphs is centered */
+#hero p {
+  @apply text-center;
+}
+
 @layer components {
   .btn {
     @apply inline-block px-6 py-2 border text-[var(--skin-accent)] rounded transition-colors duration-200;
