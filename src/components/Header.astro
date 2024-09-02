@@ -7,7 +7,7 @@ import logoPNG from "/assets/logo.png";
 import logoSVG from "/assets/logo.svg";
 
 export interface Props {
-  activeNav?: "now" | "talks" | "media" | "blog" ;
+  activeNav?: | "blog" ;
 }
 
 const { activeNav } = Astro.props;
@@ -59,21 +59,6 @@ const { activeNav } = Astro.props;
           </svg>
         </button>
         <ul id="menu-items" class="display-none sm:flex">
-          <li>
-            <a href="/now" class={activeNav === "now" ? "active" : ""}>
-              Now
-            </a>
-          </li>
-          <li>
-            <a href="/talks" class={activeNav === "talks" ? "active" : ""}>
-              Speaking
-            </a>
-          </li>
-          <li>
-            <a href="/media" class={activeNav === "media" ? "active" : ""}>
-              Interviews
-            </a>
-          </li>
             <li>
             <a href="https://ronbronson.blot.im/" class={activeNav === "about" ? "active" : ""}>
               Blog
